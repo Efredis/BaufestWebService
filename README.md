@@ -1,4 +1,4 @@
-## CypressWorkshop
+# CypressWorkshop
 Las pruebas automatizadas llamadas "CypressWorkshop" cumple con las siguientes premisas:
 
 Tomando como referencia lo documentado en este swagger:
@@ -10,8 +10,9 @@ https://petstore.swagger.io/ .
 	- Status code esperado.
 	- Schema del response.
 
-###Requisitos del sistema:
-####Requerimientos mínimos de hardware y software para configurar entorno.
+##Requisitos del sistema:
+
+###Requerimientos mínimos de hardware y software para configurar entorno.
 - SO: Windows 7 ó posterior.
 - Procesador: Intel from 1.2 GHz ó equivilent AMD family.
 - Memoria: 4 GB de RAM.
