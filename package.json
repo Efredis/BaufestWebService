@@ -1,0 +1,23 @@
+{
+  "name": "baufestwebservices",
+  "version": "1.0.0",
+  "description": "Las pruebas automatizadas llamadas \"CypressWorkshop\" cumple con las siguientes premisas:",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efredis/BaufestWebService.git"
+  },
+  "author": "Efredis Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efredis/BaufestWebService/issues"
+  },
+  "homepage": "https://github.com/Efredis/BaufestWebService#readme"
+}
